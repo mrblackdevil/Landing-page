@@ -1,5 +1,10 @@
-Техническое задание 
+Техническое задание на вёрстку
 
+Название сайта: LandingPage
+Домен: <a href="https://mrblackdevil.github.io/Landing-page/">LandingPage</a>
+--
+
+Общие технические требования
 Кроссбраузерность IE8+
 Пиксельная точность для Chrome latest
 Верстка должна быть responsive, там есть три макета для разных девайсов. "Mobile first"
